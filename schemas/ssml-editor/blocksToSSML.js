@@ -4,8 +4,8 @@ const serializers = {
   marks: {
     prosody: ({ children, mark: { rate, pitch, volume } }) =>
       h('prosody', { attrs: { rate, pitch, volume } }, children),
-    sub: ({ children, mark: { alias } }) =>
-      h('sub', { attrs: { alias } }, children),
+    alias: ({ children, mark: { text } }) =>
+      h('sub', { attrs: { alias: text } }, children),
     sayAs: ({ children, mark: { interpretAs } }) =>
       h('say-as', { attrs: { 'interpret-as': interpretAs } }, children),
     break: ({ children, mark: { time, strength } }) =>
