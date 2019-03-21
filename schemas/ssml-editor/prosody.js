@@ -46,8 +46,8 @@ export default {
         list: [
           { value: 'silent', title: 'Silent' },
           { value: 'x-soft', title: 'Extra soft' },
-          { value: 'medium', title: 'Mmedium' },
-          { value: 'loud', title: 'loud' },
+          { value: 'medium', title: 'Medium' },
+          { value: 'loud', title: 'Loud' },
           { value: 'x-loud', title: 'Extra loud' },
           { value: 'default', title: 'Default' },
         ],
