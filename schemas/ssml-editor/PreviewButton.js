@@ -5,7 +5,7 @@ import { blocksToSSML } from './blocksToSSML';
 // You should be careful with sharing this key
 // I put it here to keep the code simple
 const API_KEY = '<yourAPIkey>';
-const GOOGLE_TEXT_TO_SPEECH_URL = `https://texttospeech.googleapis.com/v1beta1/text:synthesize?key=${API_KEY}`;
+const GOOGLE_TEXT_TO_SPEECH_URL = `https://texttospeech.googleapis.com/v1/text:synthesize?key=${API_KEY}`;
 
 const speak = async blocks => {
   // Serialize blocks to SSML
