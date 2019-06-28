@@ -2,6 +2,8 @@
 
 This is the code used in the [Speech Synthesis Editor tutorial published in Smashing Magazine](https://smashingmagazine.com/2019/03/how-to-make-a-speech-synthesis-editor/).
 
+This is only a demo, and the code is kept as minimal and simple as possible. This repo is not maintained.
+
 ## Getting started
 
 1. Clone this repository
