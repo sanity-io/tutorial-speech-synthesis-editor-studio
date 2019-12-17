@@ -1,6 +1,6 @@
 # Tutorial: Speech Synthesis Editor Studio
 
-This is the code used in the [Speech Synthesis Editor tutorial published in Smashing Magazine](https://smashingmagazine.com/2019/03/how-to-make-a-speech-synthesis-editor/).
+This is the code used in the [Speech Synthesis Editor tutorial published in Smashing Magazine](https://www.smashingmagazine.com/2019/03/sanity-portabletext-speech-synthesis/).
 
 This is only a demo, and the code is kept as minimal and simple as possible. This repo is not maintained.
 
